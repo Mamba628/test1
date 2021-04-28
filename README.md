@@ -2,7 +2,7 @@
 #### 让我将你心儿摘下
 [相关介绍]<https://baike.baidu.com/item/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/983789?fr=aladdin>
 
-[2] (2.md)
+[2](2.md)
 
 
 ![嘎子](../专业英语GitHub/af2h2-l8t1z.png)
